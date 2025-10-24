@@ -1,0 +1,1501 @@
+MovieID,ActorID,Role,IsMainCharacter
+1,197,Hero's friend,1
+1,11,Scientist,1
+1,57,Military commander,0
+1,424,Manager,0
+1,7,Comic relief,0
+2,74,Lead actor,1
+2,481,Police detective,1
+2,322,Secretary,0
+2,308,Hotel staff,0
+2,7,Social media influencer,0
+3,437,Wealthy businessperson,1
+3,363,Judge,1
+3,44,Barista,0
+3,104,Social media influencer,0
+3,72,Journalist,0
+4,170,Artist,1
+4,246,Therapist,1
+4,80,Street vendor,0
+4,125,Secretary,0
+4,29,Space explorer,0
+5,423,Police detective,1
+5,23,Police officer,0
+5,53,Social media influencer,0
+5,279,Writer,0
+5,152,Mysterious stranger,0
+6,468,Crime boss,1
+6,115,Mysterious stranger,0
+6,13,Businessperson,0
+6,117,Street vendor,0
+6,219,City youth,0
+7,472,Police detective,1
+7,451,Bartender,0
+7,351,Journalist,0
+7,197,Space explorer,0
+7,352,Military commander,0
+8,490,Foreign agent,1
+8,145,Space explorer,0
+8,183,Businessperson,0
+8,40,Comic relief,0
+8,316,Villain,0
+9,92,Detective's assistant,1
+9,220,Taxi driver,0
+9,272,Writer,0
+9,172,Mysterious stranger,0
+9,308,Taxi driver,0
+10,320,Police detective,1
+10,419,Therapist,1
+10,147,Bartender,0
+10,179,Taxi driver,0
+10,449,Businessperson,0
+11,416,Lead actor,1
+11,465,Scientist,1
+11,365,Manager,0
+11,409,Street vendor,0
+11,40,Mysterious stranger,0
+12,76,Wealthy businessperson,1
+12,200,Love interest,1
+12,229,Space explorer,0
+12,370,Librarian,0
+12,408,Writer,0
+13,75,Crime boss,1
+13,47,Mysterious oracle,1
+13,166,Musician,0
+13,66,Bartender,0
+13,94,Writer,0
+14,356,Foreign agent,1
+14,499,Scientist,1
+14,212,Athlete,0
+14,309,Street vendor,0
+14,407,Military commander,0
+15,215,Wealthy businessperson,1
+15,282,Artist,1
+15,255,Secretary,0
+15,276,Social media influencer,0
+15,274,Military commander,0
+16,43,Judge,1
+16,298,Rebel leader,1
+16,367,Gardener,0
+16,216,Comic relief,0
+16,270,Military commander,0
+17,2,Artist,1
+17,105,Wealthy businessperson,1
+17,436,Mysterious stranger,0
+17,9,Space explorer,0
+17,186,Villain,0
+18,185,Scientist,1
+18,435,Murder suspect,1
+18,444,Barista,0
+18,399,Mysterious stranger,0
+18,420,Social media influencer,0
+19,125,Scientist,1
+19,108,Police detective,1
+19,424,Gardener,0
+19,115,Gardener,0
+19,29,Mysterious stranger,0
+20,376,Mysterious oracle,1
+20,14,Hero's friend,1
+20,357,Gardener,0
+20,495,Space explorer,0
+20,218,Taxi driver,0
+21,245,Lead actor,1
+21,429,Mysterious stranger,0
+21,305,Businessperson,0
+21,446,Mysterious stranger,0
+21,81,Comic relief,0
+22,40,Savior,1
+22,7,Mysterious stranger,0
+22,292,Manager,0
+22,426,Journalist,0
+22,417,Bartender,0
+23,384,Wealthy businessperson,1
+23,271,Writer,0
+23,358,Hotel staff,0
+23,486,Musician,0
+23,154,Barista,0
+24,147,Hero's friend,1
+24,57,Child,0
+24,80,Manager,0
+24,31,Journalist,0
+24,452,Police officer,0
+25,6,Soldier hero,1
+25,203,Secretary,0
+25,427,Gardener,0
+25,217,Social media influencer,0
+25,349,Farmer,0
+26,364,Therapist,1
+26,117,Love interest,1
+26,217,Police officer,0
+26,477,Old friend,0
+26,81,Mysterious stranger,0
+27,206,Detective's assistant,1
+27,317,Social media influencer,0
+27,29,Hotel staff,0
+27,113,Secretary,0
+27,201,Child,0
+28,419,Crime boss,1
+28,355,Social media influencer,0
+28,240,Old friend,0
+28,245,Journalist,0
+28,161,Villain,0
+29,332,Police detective,1
+29,218,Love interest,1
+29,100,Businessperson,0
+29,139,Child,0
+29,56,Manager,0
+30,15,Police detective,1
+30,123,Love interest,1
+30,145,Prosecutor,0
+30,84,Child,0
+30,278,Supporting actor,0
+31,97,Hero's friend,1
+31,283,Rebel leader,1
+31,104,Farmer,0
+31,327,Comic relief,0
+31,476,Librarian,0
+32,289,Foreign agent,1
+32,405,Comic relief,0
+32,248,City youth,0
+32,24,Supporting actor,0
+32,25,Businessperson,0
+33,491,Crime boss,1
+33,204,Mysterious oracle,1
+33,257,Mysterious stranger,0
+33,100,Gardener,0
+33,162,Taxi driver,0
+34,170,Police detective,1
+34,209,Police officer,0
+34,460,Athlete,0
+34,380,Manager,0
+34,258,Mysterious stranger,0
+35,301,Hero's friend,1
+35,408,City youth,0
+35,196,Journalist,0
+35,245,Mysterious stranger,0
+35,445,Taxi driver,0
+36,41,Rebel leader,1
+36,454,Prince/princess,1
+36,321,Athlete,0
+36,48,Taxi driver,0
+36,488,Street vendor,0
+37,394,Journalist,1
+37,368,Hotel staff,0
+37,83,Child,0
+37,494,Street vendor,0
+37,257,Police officer,0
+38,230,Mysterious oracle,1
+38,403,Doctor,1
+38,68,Writer,0
+38,174,Villain,0
+38,149,Gardener,0
+39,123,Scientist,1
+39,107,Judge,1
+39,313,Street vendor,0
+39,311,Bartender,0
+39,39,Space explorer,0
+40,74,Love interest,1
+40,393,Bartender,0
+40,446,Space explorer,0
+40,159,Barista,0
+40,281,Musician,0
+41,479,Judge,1
+41,152,Businessperson,0
+41,83,Businessperson,0
+41,35,Comic relief,0
+41,144,Comic relief,0
+42,364,Therapist,1
+42,396,Manager,0
+42,236,Barista,0
+42,133,Street vendor,0
+42,243,Mysterious stranger,0
+43,498,Murder suspect,1
+43,292,Old friend,0
+43,250,Writer,0
+43,21,Child,0
+43,187,Taxi driver,0
+44,226,Foreign agent,1
+44,188,Businessperson,0
+44,263,Comic relief,0
+44,433,Taxi driver,0
+44,320,Writer,0
+45,135,Doctor,1
+45,450,Hero's friend,1
+45,449,Hotel staff,0
+45,350,Athlete,0
+45,22,Military commander,0
+46,80,Detective's assistant,1
+46,437,Librarian,0
+46,54,Old friend,0
+46,149,Comic relief,0
+46,193,Military commander,0
+47,448,Soldier hero,1
+47,237,Soldier hero,1
+47,343,Street vendor,0
+47,48,Secretary,0
+47,179,Social media influencer,0
+48,56,Crime boss,1
+48,44,Savior,1
+48,93,Prosecutor,0
+48,375,Old friend,0
+48,470,Musician,0
+49,163,Wealthy businessperson,1
+49,176,Space explorer,0
+49,310,Farmer,0
+49,249,Barista,0
+49,109,Villain,0
+50,486,Foreign agent,1
+50,241,Librarian,0
+50,75,Villain,0
+50,328,Child,0
+50,110,Manager,0
+51,32,Savior,1
+51,480,Wealthy businessperson,1
+51,414,Prosecutor,0
+51,186,Villain,0
+51,405,Prosecutor,0
+52,488,Therapist,1
+52,389,Street vendor,0
+52,351,Journalist,0
+52,217,Comic relief,0
+52,139,Mysterious stranger,0
+53,141,Soldier hero,1
+53,208,Writer,0
+53,42,Police officer,0
+53,153,Prosecutor,0
+53,448,Taxi driver,0
+54,95,Savior,1
+54,426,Foreign agent,1
+54,28,Manager,0
+54,48,City youth,0
+54,459,Journalist,0
+55,179,Artist,1
+55,483,Gardener,0
+55,215,Athlete,0
+55,247,Journalist,0
+55,244,Gardener,0
+56,182,Lead actor,1
+56,468,Artist,1
+56,355,Athlete,0
+56,293,Child,0
+56,200,Prosecutor,0
+57,371,Foreign agent,1
+57,342,Taxi driver,0
+57,297,Social media influencer,0
+57,316,Hotel staff,0
+57,75,Hotel staff,0
+58,8,Scientist,1
+58,78,Wealthy businessperson,1
+58,460,Musician,0
+58,235,Space explorer,0
+58,479,Athlete,0
+59,135,Scientist,1
+59,267,Soldier hero,1
+59,370,Street vendor,0
+59,2,Librarian,0
+59,231,Space explorer,0
+60,112,Artist,1
+60,382,Manager,0
+60,97,Journalist,0
+60,216,Child,0
+60,357,Old friend,0
+61,179,Judge,1
+61,108,Supporting actor,0
+61,488,Businessperson,0
+61,98,Social media influencer,0
+61,498,Businessperson,0
+62,155,Police detective,1
+62,460,Gardener,0
+62,158,Bartender,0
+62,258,Street vendor,0
+62,420,Barista,0
+63,211,Journalist,1
+63,181,Foreign agent,1
+63,425,Space explorer,0
+63,278,Journalist,0
+63,219,Barista,0
+64,192,Artist,1
+64,91,Savior,1
+64,284,Old friend,0
+64,305,City youth,0
+64,84,Taxi driver,0
+65,325,Police detective,1
+65,146,Love interest,1
+65,360,Athlete,0
+65,318,Social media influencer,0
+65,481,Space explorer,0
+66,333,Police detective,1
+66,9,Bartender,0
+66,316,Hotel staff,0
+66,478,Manager,0
+66,211,Child,0
+67,325,Hero's friend,1
+67,228,Taxi driver,0
+67,258,City youth,0
+67,298,Writer,0
+67,413,Prosecutor,0
+68,398,Prince/princess,1
+68,233,Bartender,0
+68,283,Space explorer,0
+68,196,Businessperson,0
+68,59,Athlete,0
+69,212,Crime boss,1
+69,465,Lead actor,1
+69,421,Businessperson,0
+69,331,Athlete,0
+69,361,Military commander,0
+70,138,Savior,1
+70,451,Rebel leader,1
+70,338,Supporting actor,0
+70,136,Writer,0
+70,158,Villain,0
+71,14,Journalist,1
+71,79,Social media influencer,0
+71,405,Hotel staff,0
+71,192,Child,0
+71,431,Musician,0
+72,88,Artist,1
+72,492,Crime boss,1
+72,293,Prosecutor,0
+72,221,Child,0
+72,124,Street vendor,0
+73,425,Savior,1
+73,27,Scientist,1
+73,411,Street vendor,0
+73,478,Old friend,0
+73,296,Hotel staff,0
+74,207,Savior,1
+74,463,Military commander,0
+74,163,Space explorer,0
+74,265,Gardener,0
+74,82,Athlete,0
+75,259,Crime boss,1
+75,61,Social media influencer,0
+75,324,Manager,0
+75,296,Street vendor,0
+75,402,Farmer,0
+76,486,Savior,1
+76,166,Supporting actor,0
+76,105,Street vendor,0
+76,48,Manager,0
+76,14,Librarian,0
+77,15,Love interest,1
+77,317,Librarian,0
+77,363,Old friend,0
+77,279,Supporting actor,0
+77,472,Hotel staff,0
+78,233,Detective's assistant,1
+78,325,Military commander,0
+78,324,Street vendor,0
+78,399,Military commander,0
+78,184,City youth,0
+79,275,Crime boss,1
+79,431,Manager,0
+79,126,Farmer,0
+79,372,Taxi driver,0
+79,400,Villain,0
+80,43,Judge,1
+80,479,Police detective,1
+80,74,Space explorer,0
+80,322,Barista,0
+80,12,Child,0
+81,55,Detective's assistant,1
+81,73,Comic relief,0
+81,145,Comic relief,0
+81,135,Bartender,0
+81,459,Businessperson,0
+82,201,Savior,1
+82,52,Comic relief,0
+82,252,Bartender,0
+82,408,Street vendor,0
+82,12,Comic relief,0
+83,352,Soldier hero,1
+83,215,Athlete,0
+83,193,Journalist,0
+83,456,Journalist,0
+83,161,City youth,0
+84,463,Doctor,1
+84,92,Villain,0
+84,338,Space explorer,0
+84,291,Musician,0
+84,324,Businessperson,0
+85,315,Journalist,1
+85,308,Therapist,1
+85,280,Space explorer,0
+85,3,Prosecutor,0
+85,82,Child,0
+86,275,Scientist,1
+86,12,Prosecutor,0
+86,266,Businessperson,0
+86,263,Space explorer,0
+86,390,Prosecutor,0
+87,168,Scientist,1
+87,71,Farmer,0
+87,113,Farmer,0
+87,43,Bartender,0
+87,373,Prosecutor,0
+88,179,Soldier hero,1
+88,363,Hotel staff,0
+88,283,Athlete,0
+88,334,Bartender,0
+88,151,Writer,0
+89,473,Therapist,1
+89,99,Crime boss,1
+89,129,Space explorer,0
+89,89,Librarian,0
+89,102,Athlete,0
+90,85,Wealthy businessperson,1
+90,407,Savior,1
+90,106,Barista,0
+90,489,Writer,0
+90,370,Child,0
+91,418,Crime boss,1
+91,164,Savior,1
+91,319,Prosecutor,0
+91,56,Librarian,0
+91,311,Businessperson,0
+92,460,Detective's assistant,1
+92,324,Hero's friend,1
+92,420,Police officer,0
+92,33,Farmer,0
+92,231,Librarian,0
+93,151,Journalist,1
+93,310,Mysterious oracle,1
+93,424,Old friend,0
+93,450,Supporting actor,0
+93,331,Space explorer,0
+94,415,Mysterious oracle,1
+94,166,Military commander,0
+94,220,Comic relief,0
+94,405,Prosecutor,0
+94,96,Taxi driver,0
+95,191,Lead actor,1
+95,75,Foreign agent,1
+95,400,Gardener,0
+95,161,Supporting actor,0
+95,63,Gardener,0
+96,110,Rebel leader,1
+96,239,Artist,1
+96,291,Comic relief,0
+96,408,Old friend,0
+96,165,City youth,0
+97,270,Doctor,1
+97,112,Athlete,0
+97,53,Taxi driver,0
+97,288,Comic relief,0
+97,143,Librarian,0
+98,350,Foreign agent,1
+98,388,Prince/princess,1
+98,223,Prosecutor,0
+98,163,Villain,0
+98,417,Athlete,0
+99,256,Police detective,1
+99,24,Soldier hero,1
+99,141,Journalist,0
+99,216,Child,0
+99,62,Musician,0
+100,122,Judge,1
+100,296,Lead actor,1
+100,11,Barista,0
+100,146,City youth,0
+100,10,Mysterious stranger,0
+101,19,Hero's friend,1
+101,459,Foreign agent,1
+101,274,Street vendor,0
+101,471,Supporting actor,0
+101,271,Comic relief,0
+102,49,Murder suspect,1
+102,425,Therapist,1
+102,411,Musician,0
+102,213,Manager,0
+102,371,Businessperson,0
+103,41,Doctor,1
+103,285,Hero's friend,1
+103,397,Old friend,0
+103,161,City youth,0
+103,253,Gardener,0
+104,253,Police detective,1
+104,435,Mysterious oracle,1
+104,329,Child,0
+104,496,Space explorer,0
+104,467,Supporting actor,0
+105,25,Foreign agent,1
+105,423,Gardener,0
+105,6,Hotel staff,0
+105,72,Writer,0
+105,54,Military commander,0
+106,46,Mysterious oracle,1
+106,98,Social media influencer,0
+106,371,Secretary,0
+106,462,Supporting actor,0
+106,416,Gardener,0
+107,133,Hero's friend,1
+107,453,City youth,0
+107,402,Comic relief,0
+107,23,Farmer,0
+107,57,Musician,0
+108,139,Judge,1
+108,358,Soldier hero,1
+108,88,Space explorer,0
+108,474,Mysterious stranger,0
+108,71,Musician,0
+109,386,Savior,1
+109,300,Street vendor,0
+109,455,Barista,0
+109,436,Taxi driver,0
+109,495,Space explorer,0
+110,296,Therapist,1
+110,245,Musician,0
+110,339,Manager,0
+110,251,Hotel staff,0
+110,500,Bartender,0
+111,48,Love interest,1
+111,136,Businessperson,0
+111,393,Secretary,0
+111,152,Social media influencer,0
+111,365,Military commander,0
+112,356,Hero's friend,1
+112,40,Prosecutor,0
+112,39,Supporting actor,0
+112,498,Taxi driver,0
+112,254,Prosecutor,0
+113,420,Foreign agent,1
+113,198,Prince/princess,1
+113,97,Social media influencer,0
+113,250,Librarian,0
+113,54,Manager,0
+114,390,Scientist,1
+114,484,Journalist,1
+114,160,Space explorer,0
+114,363,Mysterious stranger,0
+114,233,Military commander,0
+115,198,Journalist,1
+115,500,Prince/princess,1
+115,232,Manager,0
+115,445,Old friend,0
+115,318,Prosecutor,0
+116,143,Judge,1
+116,217,Street vendor,0
+116,85,Space explorer,0
+116,352,Mysterious stranger,0
+116,158,Barista,0
+117,382,Soldier hero,1
+117,57,Journalist,0
+117,124,Farmer,0
+117,9,Supporting actor,0
+117,458,Bartender,0
+118,181,Love interest,1
+118,136,Mysterious oracle,1
+118,61,Writer,0
+118,475,Prosecutor,0
+118,282,Mysterious stranger,0
+119,258,Soldier hero,1
+119,221,Therapist,1
+119,261,Businessperson,0
+119,171,Space explorer,0
+119,28,Villain,0
+120,375,Prince/princess,1
+120,476,Crime boss,1
+120,217,Journalist,0
+120,100,Child,0
+120,151,Farmer,0
+121,266,Rebel leader,1
+121,222,Police detective,1
+121,56,Military commander,0
+121,349,Space explorer,0
+121,26,Villain,0
+122,295,Police detective,1
+122,137,Farmer,0
+122,123,Military commander,0
+122,34,Child,0
+122,273,Gardener,0
+123,201,Therapist,1
+123,202,Wealthy businessperson,1
+123,52,Prosecutor,0
+123,113,Journalist,0
+123,376,Athlete,0
+124,178,Murder suspect,1
+124,327,Hotel staff,0
+124,148,Supporting actor,0
+124,362,Space explorer,0
+124,306,Journalist,0
+125,379,Rebel leader,1
+125,157,Detective's assistant,1
+125,437,Musician,0
+125,465,Taxi driver,0
+125,353,Comic relief,0
+126,96,Lead actor,1
+126,171,Taxi driver,0
+126,461,Bartender,0
+126,234,Writer,0
+126,73,Musician,0
+127,91,Detective's assistant,1
+127,499,Taxi driver,0
+127,136,Manager,0
+127,452,Supporting actor,0
+127,40,Child,0
+128,497,Rebel leader,1
+128,243,Wealthy businessperson,1
+128,299,Space explorer,0
+128,1,Villain,0
+128,251,Social media influencer,0
+129,291,Journalist,1
+129,349,Police officer,0
+129,149,Journalist,0
+129,428,Manager,0
+129,117,Mysterious stranger,0
+130,52,Soldier hero,1
+130,156,Bartender,0
+130,412,Hotel staff,0
+130,377,Businessperson,0
+130,172,Secretary,0
+131,340,Lead actor,1
+131,250,Mysterious oracle,1
+131,130,City youth,0
+131,187,Gardener,0
+131,235,Musician,0
+132,58,Lead actor,1
+132,139,Scientist,1
+132,352,Writer,0
+132,266,Military commander,0
+132,373,Taxi driver,0
+133,183,Savior,1
+133,255,Businessperson,0
+133,16,Prosecutor,0
+133,126,Hotel staff,0
+133,296,Comic relief,0
+134,472,Therapist,1
+134,489,Street vendor,0
+134,194,Taxi driver,0
+134,328,Secretary,0
+134,56,Barista,0
+135,136,Foreign agent,1
+135,467,Old friend,0
+135,348,Librarian,0
+135,179,Writer,0
+135,455,Farmer,0
+136,98,Foreign agent,1
+136,22,Doctor,1
+136,297,Space explorer,0
+136,267,Writer,0
+136,360,Athlete,0
+137,291,Police detective,1
+137,496,Lead actor,1
+137,406,Bartender,0
+137,178,Taxi driver,0
+137,148,Mysterious stranger,0
+138,349,Doctor,1
+138,77,Artist,1
+138,268,Taxi driver,0
+138,495,Journalist,0
+138,149,City youth,0
+139,148,Soldier hero,1
+139,34,Hero's friend,1
+139,410,Prosecutor,0
+139,151,City youth,0
+139,8,Social media influencer,0
+140,28,Mysterious oracle,1
+140,251,Taxi driver,0
+140,157,Social media influencer,0
+140,3,Supporting actor,0
+140,221,Villain,0
+141,71,Journalist,1
+141,180,Artist,1
+141,450,Mysterious stranger,0
+141,146,Comic relief,0
+141,403,Gardener,0
+142,74,Love interest,1
+142,376,Murder suspect,1
+142,101,Military commander,0
+142,222,Villain,0
+142,300,Bartender,0
+143,128,Savior,1
+143,416,Crime boss,1
+143,348,Space explorer,0
+143,327,Farmer,0
+143,198,City youth,0
+144,89,Foreign agent,1
+144,289,Judge,1
+144,224,Mysterious stranger,0
+144,348,Taxi driver,0
+144,449,Manager,0
+145,129,Murder suspect,1
+145,70,City youth,0
+145,214,Comic relief,0
+145,284,City youth,0
+145,103,Librarian,0
+146,280,Savior,1
+146,94,Police detective,1
+146,193,Mysterious stranger,0
+146,401,Police officer,0
+146,449,Barista,0
+147,258,Soldier hero,1
+147,479,Mysterious oracle,1
+147,351,Writer,0
+147,365,Barista,0
+147,184,Writer,0
+148,237,Savior,1
+148,15,Love interest,1
+148,468,Manager,0
+148,287,Mysterious stranger,0
+148,14,Child,0
+149,403,Scientist,1
+149,125,Doctor,1
+149,298,Secretary,0
+149,263,Librarian,0
+149,192,City youth,0
+150,387,Lead actor,1
+150,433,Barista,0
+150,202,Athlete,0
+150,65,Manager,0
+150,207,Police officer,0
+151,430,Police detective,1
+151,28,Foreign agent,1
+151,44,Child,0
+151,29,Space explorer,0
+151,139,Social media influencer,0
+152,290,Hero's friend,1
+152,247,Police detective,1
+152,354,Hotel staff,0
+152,170,Librarian,0
+152,443,Taxi driver,0
+153,360,Wealthy businessperson,1
+153,105,Mysterious stranger,0
+153,265,Military commander,0
+153,74,Taxi driver,0
+153,288,Street vendor,0
+154,155,Lead actor,1
+154,322,Athlete,0
+154,160,Bartender,0
+154,369,Child,0
+154,480,Gardener,0
+155,59,Police detective,1
+155,35,Police officer,0
+155,1,Space explorer,0
+155,79,Military commander,0
+155,310,Prosecutor,0
+156,243,Crime boss,1
+156,13,Villain,0
+156,427,Space explorer,0
+156,259,City youth,0
+156,228,Old friend,0
+157,95,Artist,1
+157,420,Therapist,1
+157,121,Social media influencer,0
+157,431,Child,0
+157,435,Taxi driver,0
+158,440,Scientist,1
+158,337,Lead actor,1
+158,316,Journalist,0
+158,64,Mysterious stranger,0
+158,222,Social media influencer,0
+159,88,Prince/princess,1
+159,262,Bartender,0
+159,380,Bartender,0
+159,359,City youth,0
+159,280,City youth,0
+160,492,Therapist,1
+160,302,Old friend,0
+160,253,Old friend,0
+160,189,Gardener,0
+160,342,Athlete,0
+161,238,Lead actor,1
+161,214,City youth,0
+161,417,Barista,0
+161,218,Space explorer,0
+161,76,Librarian,0
+162,6,Doctor,1
+162,298,Soldier hero,1
+162,156,Villain,0
+162,18,Businessperson,0
+162,331,Mysterious stranger,0
+163,452,Detective's assistant,1
+163,371,Mysterious oracle,1
+163,235,Police officer,0
+163,142,Police officer,0
+163,5,Prosecutor,0
+164,463,Love interest,1
+164,362,Detective's assistant,1
+164,269,Street vendor,0
+164,200,Mysterious stranger,0
+164,263,Businessperson,0
+165,236,Therapist,1
+165,367,Murder suspect,1
+165,440,Old friend,0
+165,403,Comic relief,0
+165,72,Social media influencer,0
+166,193,Detective's assistant,1
+166,493,Judge,1
+166,242,Gardener,0
+166,311,Police officer,0
+166,338,Manager,0
+167,67,Judge,1
+167,358,Mysterious oracle,1
+167,166,Librarian,0
+167,302,Child,0
+167,490,Social media influencer,0
+168,35,Detective's assistant,1
+168,24,Rebel leader,1
+168,16,Space explorer,0
+168,437,Taxi driver,0
+168,376,Space explorer,0
+169,479,Rebel leader,1
+169,348,Rebel leader,1
+169,244,Space explorer,0
+169,166,Journalist,0
+169,390,Hotel staff,0
+170,387,Hero's friend,1
+170,499,Doctor,1
+170,216,Farmer,0
+170,473,Space explorer,0
+170,33,Villain,0
+171,227,Lead actor,1
+171,391,Journalist,0
+171,192,Musician,0
+171,311,Space explorer,0
+171,324,Gardener,0
+172,194,Prince/princess,1
+172,69,Prince/princess,1
+172,327,Farmer,0
+172,294,Bartender,0
+172,285,Barista,0
+173,116,Journalist,1
+173,104,Prince/princess,1
+173,380,Comic relief,0
+173,83,Librarian,0
+173,223,Supporting actor,0
+174,105,Lead actor,1
+174,18,Businessperson,0
+174,415,Manager,0
+174,72,Writer,0
+174,458,Librarian,0
+175,175,Journalist,1
+175,95,Bartender,0
+175,350,Prosecutor,0
+175,374,Social media influencer,0
+175,491,Prosecutor,0
+176,257,Artist,1
+176,181,Scientist,1
+176,183,Athlete,0
+176,317,Comic relief,0
+176,461,Barista,0
+177,321,Love interest,1
+177,193,Scientist,1
+177,448,Athlete,0
+177,37,Police officer,0
+177,292,City youth,0
+178,61,Artist,1
+178,256,Musician,0
+178,119,Supporting actor,0
+178,27,Military commander,0
+178,308,Social media influencer,0
+179,473,Mysterious oracle,1
+179,425,Love interest,1
+179,129,Journalist,0
+179,200,City youth,0
+179,361,Comic relief,0
+180,437,Murder suspect,1
+180,266,Old friend,0
+180,478,Child,0
+180,313,Villain,0
+180,257,Secretary,0
+181,299,Lead actor,1
+181,242,Villain,0
+181,480,Musician,0
+181,470,Writer,0
+181,135,Farmer,0
+182,172,Prince/princess,1
+182,455,Secretary,0
+182,392,Social media influencer,0
+182,31,Hotel staff,0
+182,72,Musician,0
+183,121,Judge,1
+183,253,Child,0
+183,38,Gardener,0
+183,413,Social media influencer,0
+183,486,Manager,0
+184,178,Doctor,1
+184,37,Comic relief,0
+184,487,Secretary,0
+184,214,Bartender,0
+184,307,Mysterious stranger,0
+185,371,Journalist,1
+185,22,Rebel leader,1
+185,54,Street vendor,0
+185,19,Businessperson,0
+185,255,Writer,0
+186,156,Rebel leader,1
+186,401,Lead actor,1
+186,436,Villain,0
+186,449,Supporting actor,0
+186,498,Manager,0
+187,274,Lead actor,1
+187,312,Secretary,0
+187,441,Bartender,0
+187,195,Villain,0
+187,350,Old friend,0
+188,357,Artist,1
+188,65,Scientist,1
+188,221,Space explorer,0
+188,360,Barista,0
+188,219,Space explorer,0
+189,181,Hero's friend,1
+189,100,Rebel leader,1
+189,176,Military commander,0
+189,224,Comic relief,0
+189,471,Librarian,0
+190,117,Artist,1
+190,212,Librarian,0
+190,383,Villain,0
+190,386,Athlete,0
+190,455,Supporting actor,0
+191,417,Detective's assistant,1
+191,30,City youth,0
+191,40,Villain,0
+191,65,Musician,0
+191,225,Businessperson,0
+192,150,Police detective,1
+192,67,Taxi driver,0
+192,311,Comic relief,0
+192,204,Comic relief,0
+192,246,Farmer,0
+193,254,Rebel leader,1
+193,362,Barista,0
+193,377,Gardener,0
+193,417,City youth,0
+193,183,Businessperson,0
+194,445,Therapist,1
+194,335,Foreign agent,1
+194,126,Gardener,0
+194,270,Secretary,0
+194,458,Police officer,0
+195,28,Doctor,1
+195,178,Bartender,0
+195,462,Farmer,0
+195,211,Comic relief,0
+195,362,Prosecutor,0
+196,431,Artist,1
+196,500,Prosecutor,0
+196,267,Space explorer,0
+196,119,Businessperson,0
+196,157,Hotel staff,0
+197,19,Soldier hero,1
+197,121,Space explorer,0
+197,358,Supporting actor,0
+197,226,Bartender,0
+197,333,Social media influencer,0
+198,139,Love interest,1
+198,143,Villain,0
+198,302,Farmer,0
+198,197,Child,0
+198,154,Old friend,0
+199,10,Hero's friend,1
+199,442,Rebel leader,1
+199,196,Prosecutor,0
+199,197,Old friend,0
+199,228,Journalist,0
+200,273,Artist,1
+200,27,Mysterious oracle,1
+200,339,Supporting actor,0
+200,157,Child,0
+200,17,Manager,0
+201,473,Judge,1
+201,425,Prince/princess,1
+201,465,Manager,0
+201,135,Supporting actor,0
+201,415,Musician,0
+202,444,Hero's friend,1
+202,219,Police detective,1
+202,401,Secretary,0
+202,374,Old friend,0
+202,476,Hotel staff,0
+203,440,Judge,1
+203,481,Judge,1
+203,274,Manager,0
+203,238,Police officer,0
+203,218,Farmer,0
+204,492,Rebel leader,1
+204,196,Mysterious stranger,0
+204,240,Supporting actor,0
+204,382,Farmer,0
+204,474,Athlete,0
+205,44,Foreign agent,1
+205,128,Judge,1
+205,395,Old friend,0
+205,278,Villain,0
+205,152,Child,0
+206,186,Doctor,1
+206,138,Lead actor,1
+206,338,Space explorer,0
+206,129,City youth,0
+206,401,Librarian,0
+207,429,Soldier hero,1
+207,136,Lead actor,1
+207,434,Barista,0
+207,92,Supporting actor,0
+207,228,Barista,0
+208,495,Artist,1
+208,184,Prosecutor,0
+208,246,Writer,0
+208,327,Villain,0
+208,433,Librarian,0
+209,142,Love interest,1
+209,460,Barista,0
+209,313,Journalist,0
+209,283,Farmer,0
+209,161,Manager,0
+210,133,Detective's assistant,1
+210,445,Scientist,1
+210,254,Child,0
+210,66,Street vendor,0
+210,117,Villain,0
+211,59,Journalist,1
+211,336,Barista,0
+211,20,Librarian,0
+211,95,Musician,0
+211,351,Villain,0
+212,32,Therapist,1
+212,488,Supporting actor,0
+212,366,Taxi driver,0
+212,133,Businessperson,0
+212,500,Secretary,0
+213,308,Journalist,1
+213,121,Barista,0
+213,180,Space explorer,0
+213,56,Police officer,0
+213,40,Comic relief,0
+214,105,Savior,1
+214,167,Comic relief,0
+214,293,Street vendor,0
+214,191,Writer,0
+214,425,City youth,0
+215,13,Foreign agent,1
+215,168,Writer,0
+215,311,Street vendor,0
+215,404,Businessperson,0
+215,185,Bartender,0
+216,319,Murder suspect,1
+216,16,Scientist,1
+216,83,Librarian,0
+216,189,Supporting actor,0
+216,23,Space explorer,0
+217,414,Journalist,1
+217,161,Athlete,0
+217,262,Librarian,0
+217,367,Gardener,0
+217,400,Businessperson,0
+218,194,Scientist,1
+218,426,Old friend,0
+218,299,Manager,0
+218,17,Street vendor,0
+218,337,Comic relief,0
+219,491,Judge,1
+219,479,Street vendor,0
+219,115,Secretary,0
+219,290,Hotel staff,0
+219,258,Writer,0
+220,434,Doctor,1
+220,450,Bartender,0
+220,271,Taxi driver,0
+220,409,Police officer,0
+220,27,Police officer,0
+221,163,Murder suspect,1
+221,138,Rebel leader,1
+221,100,Musician,0
+221,429,Military commander,0
+221,295,Athlete,0
+222,119,Police detective,1
+222,234,Rebel leader,1
+222,162,Barista,0
+222,384,Hotel staff,0
+222,498,Writer,0
+223,41,Mysterious oracle,1
+223,181,Wealthy businessperson,1
+223,287,Child,0
+223,259,Military commander,0
+223,40,Barista,0
+224,118,Artist,1
+224,292,Rebel leader,1
+224,424,Manager,0
+224,65,Writer,0
+224,474,Taxi driver,0
+225,311,Foreign agent,1
+225,134,Space explorer,0
+225,408,Comic relief,0
+225,147,Writer,0
+225,175,Writer,0
+226,295,Prince/princess,1
+226,254,Journalist,0
+226,324,Barista,0
+226,452,Supporting actor,0
+226,396,Journalist,0
+227,215,Wealthy businessperson,1
+227,135,Hotel staff,0
+227,392,Space explorer,0
+227,284,Mysterious stranger,0
+227,365,Villain,0
+228,13,Journalist,1
+228,354,Journalist,1
+228,86,Old friend,0
+228,38,Writer,0
+228,68,Businessperson,0
+229,206,Murder suspect,1
+229,357,Space explorer,0
+229,286,Musician,0
+229,124,Social media influencer,0
+229,365,Musician,0
+230,370,Mysterious oracle,1
+230,24,Barista,0
+230,38,Writer,0
+230,379,Street vendor,0
+230,472,Barista,0
+231,149,Detective's assistant,1
+231,388,Judge,1
+231,245,Social media influencer,0
+231,359,Police officer,0
+231,69,Comic relief,0
+232,459,Soldier hero,1
+232,4,Old friend,0
+232,304,Musician,0
+232,190,Barista,0
+232,346,Journalist,0
+233,484,Wealthy businessperson,1
+233,396,Foreign agent,1
+233,50,Villain,0
+233,119,Librarian,0
+233,153,Police officer,0
+234,147,Detective's assistant,1
+234,166,Scientist,1
+234,197,Villain,0
+234,164,Social media influencer,0
+234,388,Hotel staff,0
+235,221,Doctor,1
+235,266,Musician,0
+235,143,Space explorer,0
+235,295,Businessperson,0
+235,451,City youth,0
+236,61,Rebel leader,1
+236,148,Journalist,0
+236,141,City youth,0
+236,250,Farmer,0
+236,225,Child,0
+237,474,Police detective,1
+237,119,Prosecutor,0
+237,342,Secretary,0
+237,143,Social media influencer,0
+237,73,Police officer,0
+238,15,Artist,1
+238,307,Secretary,0
+238,463,Athlete,0
+238,21,Prosecutor,0
+238,492,Supporting actor,0
+239,427,Murder suspect,1
+239,422,Judge,1
+239,14,Writer,0
+239,190,Hotel staff,0
+239,105,Barista,0
+240,426,Police detective,1
+240,233,Barista,0
+240,152,Writer,0
+240,471,Bartender,0
+240,57,Farmer,0
+241,443,Police detective,1
+241,71,Businessperson,0
+241,143,Athlete,0
+241,375,Comic relief,0
+241,343,Hotel staff,0
+242,373,Foreign agent,1
+242,39,Farmer,0
+242,168,Barista,0
+242,81,Street vendor,0
+242,260,Hotel staff,0
+243,362,Hero's friend,1
+243,353,Writer,0
+243,162,Space explorer,0
+243,457,Gardener,0
+243,474,Athlete,0
+244,98,Hero's friend,1
+244,431,Lead actor,1
+244,286,Military commander,0
+244,339,Mysterious stranger,0
+244,429,Librarian,0
+245,447,Therapist,1
+245,483,Wealthy businessperson,1
+245,113,Mysterious stranger,0
+245,345,Bartender,0
+245,101,Social media influencer,0
+246,376,Love interest,1
+246,255,Police officer,0
+246,145,Hotel staff,0
+246,68,Hotel staff,0
+246,102,Prosecutor,0
+247,223,Prince/princess,1
+247,35,Gardener,0
+247,252,Journalist,0
+247,286,Villain,0
+247,313,Writer,0
+248,315,Mysterious oracle,1
+248,195,Wealthy businessperson,1
+248,324,Police officer,0
+248,299,Taxi driver,0
+248,121,Journalist,0
+249,431,Wealthy businessperson,1
+249,119,Wealthy businessperson,1
+249,449,Athlete,0
+249,150,Street vendor,0
+249,343,Old friend,0
+250,279,Police detective,1
+250,247,Murder suspect,1
+250,152,Writer,0
+250,50,Barista,0
+250,113,Musician,0
+251,340,Foreign agent,1
+251,218,Taxi driver,0
+251,60,Space explorer,0
+251,91,Businessperson,0
+251,238,Gardener,0
+252,361,Wealthy businessperson,1
+252,66,Doctor,1
+252,397,Writer,0
+252,452,Taxi driver,0
+252,248,Military commander,0
+253,149,Savior,1
+253,138,Villain,0
+253,260,Secretary,0
+253,111,Manager,0
+253,456,Musician,0
+254,346,Soldier hero,1
+254,163,Savior,1
+254,211,Old friend,0
+254,201,Farmer,0
+254,415,Villain,0
+255,249,Hero's friend,1
+255,373,Murder suspect,1
+255,113,Barista,0
+255,174,Writer,0
+255,326,Military commander,0
+256,275,Doctor,1
+256,106,Child,0
+256,400,Musician,0
+256,321,Mysterious stranger,0
+256,57,Child,0
+257,487,Love interest,1
+257,370,Manager,0
+257,11,Gardener,0
+257,411,Musician,0
+257,195,Businessperson,0
+258,336,Artist,1
+258,26,Prosecutor,0
+258,266,Journalist,0
+258,108,Social media influencer,0
+258,186,Secretary,0
+259,441,Detective's assistant,1
+259,368,Mysterious oracle,1
+259,118,Musician,0
+259,149,Writer,0
+259,411,Prosecutor,0
+260,482,Journalist,1
+260,7,Space explorer,0
+260,19,Police officer,0
+260,433,Old friend,0
+260,11,Athlete,0
+261,22,Rebel leader,1
+261,81,Rebel leader,1
+261,145,Villain,0
+261,155,Farmer,0
+261,13,Hotel staff,0
+262,417,Scientist,1
+262,402,Social media influencer,0
+262,194,Hotel staff,0
+262,336,Farmer,0
+262,206,Comic relief,0
+263,38,Savior,1
+263,259,Supporting actor,0
+263,370,Supporting actor,0
+263,361,Hotel staff,0
+263,391,Social media influencer,0
+264,49,Prince/princess,1
+264,377,Social media influencer,0
+264,302,Child,0
+264,406,City youth,0
+264,201,Athlete,0
+265,218,Therapist,1
+265,263,Soldier hero,1
+265,381,Prosecutor,0
+265,12,Space explorer,0
+265,155,Farmer,0
+266,193,Savior,1
+266,150,Artist,1
+266,220,Farmer,0
+266,48,Bartender,0
+266,114,City youth,0
+267,196,Mysterious oracle,1
+267,9,Manager,0
+267,255,Secretary,0
+267,373,Gardener,0
+267,202,Space explorer,0
+268,115,Rebel leader,1
+268,296,Soldier hero,1
+268,500,Businessperson,0
+268,13,Bartender,0
+268,204,Librarian,0
+269,330,Love interest,1
+269,160,Space explorer,0
+269,171,Secretary,0
+269,74,Journalist,0
+269,415,Prosecutor,0
+270,304,Doctor,1
+270,128,Wealthy businessperson,1
+270,43,Police officer,0
+270,73,Hotel staff,0
+270,207,Social media influencer,0
+271,31,Murder suspect,1
+271,393,Hotel staff,0
+271,253,Musician,0
+271,130,Social media influencer,0
+271,211,Mysterious stranger,0
+272,165,Lead actor,1
+272,353,Farmer,0
+272,290,Gardener,0
+272,307,Prosecutor,0
+272,209,Manager,0
+273,280,Rebel leader,1
+273,256,Foreign agent,1
+273,161,Barista,0
+273,492,Gardener,0
+273,334,Bartender,0
+274,472,Crime boss,1
+274,54,Mysterious stranger,0
+274,218,Manager,0
+274,359,Supporting actor,0
+274,40,Journalist,0
+275,86,Police detective,1
+275,102,Villain,0
+275,225,Writer,0
+275,446,Bartender,0
+275,498,Journalist,0
+276,72,Crime boss,1
+276,384,Lead actor,1
+276,448,City youth,0
+276,281,Space explorer,0
+276,215,Writer,0
+277,369,Journalist,1
+277,473,Foreign agent,1
+277,451,Child,0
+277,347,Businessperson,0
+277,139,Librarian,0
+278,73,Doctor,1
+278,149,Gardener,0
+278,268,Businessperson,0
+278,351,Police officer,0
+278,105,Child,0
+279,242,Scientist,1
+279,237,Detective's assistant,1
+279,108,Police officer,0
+279,480,Gardener,0
+279,170,Social media influencer,0
+280,6,Wealthy businessperson,1
+280,163,Love interest,1
+280,214,Supporting actor,0
+280,92,City youth,0
+280,77,Gardener,0
+281,103,Foreign agent,1
+281,356,Space explorer,0
+281,49,Villain,0
+281,276,Child,0
+281,235,Barista,0
+282,35,Rebel leader,1
+282,180,Businessperson,0
+282,326,Street vendor,0
+282,287,Supporting actor,0
+282,453,Prosecutor,0
+283,146,Judge,1
+283,421,Murder suspect,1
+283,467,Businessperson,0
+283,445,Child,0
+283,219,Manager,0
+284,479,Prince/princess,1
+284,131,Love interest,1
+284,288,Librarian,0
+284,278,Mysterious stranger,0
+284,329,Space explorer,0
+285,144,Scientist,1
+285,92,Athlete,0
+285,135,Police officer,0
+285,289,Librarian,0
+285,53,Street vendor,0
+286,170,Doctor,1
+286,295,Therapist,1
+286,396,Athlete,0
+286,437,Hotel staff,0
+286,304,Child,0
+287,108,Prince/princess,1
+287,87,Love interest,1
+287,2,Athlete,0
+287,402,Child,0
+287,119,Mysterious stranger,0
+288,85,Love interest,1
+288,244,Villain,0
+288,448,Mysterious stranger,0
+288,1,Police officer,0
+288,166,Athlete,0
+289,218,Journalist,1
+289,341,Police detective,1
+289,242,Military commander,0
+289,168,Secretary,0
+289,155,Old friend,0
+290,397,Murder suspect,1
+290,198,Journalist,1
+290,362,Musician,0
+290,243,Police officer,0
+290,182,Comic relief,0
+291,490,Therapist,1
+291,86,Gardener,0
+291,485,Mysterious stranger,0
+291,325,Social media influencer,0
+291,427,Writer,0
+292,251,Police detective,1
+292,356,Artist,1
+292,404,Writer,0
+292,129,Street vendor,0
+292,351,Businessperson,0
+293,13,Mysterious oracle,1
+293,444,Hotel staff,0
+293,188,Writer,0
+293,438,Prosecutor,0
+293,239,Child,0
+294,196,Lead actor,1
+294,192,Prosecutor,0
+294,92,Barista,0
+294,478,Businessperson,0
+294,383,Police officer,0
+295,3,Mysterious oracle,1
+295,301,Farmer,0
+295,159,Police officer,0
+295,169,Supporting actor,0
+295,49,Child,0
+296,18,Crime boss,1
+296,332,Hero's friend,1
+296,141,Gardener,0
+296,329,Gardener,0
+296,246,Farmer,0
+297,321,Lead actor,1
+297,30,Wealthy businessperson,1
+297,498,Child,0
+297,293,Street vendor,0
+297,422,Barista,0
+298,89,Artist,1
+298,243,Police detective,1
+298,384,Villain,0
+298,448,Businessperson,0
+298,332,Supporting actor,0
+299,362,Scientist,1
+299,377,Comic relief,0
+299,91,Writer,0
+299,446,Social media influencer,0
+299,436,Space explorer,0
+300,228,Police detective,1
+300,327,Secretary,0
+300,364,Farmer,0
+300,32,Prosecutor,0
+300,161,Street vendor,0

@@ -1,0 +1,1655 @@
+{
+    "6b5f03f590cf5a09a7f371d46bc928c2": {
+        "column_name": "Actor_Gender",
+        "column_desc": "The gender of the actor (e.g., Male, Female, Other).",
+        "column_type": "string",
+        "is_column_nullable": "false",
+        "table_name": "actors_EN",
+        "table_desc": "Stores demographic and biographical information about actors, including their names, birth dates, nationality, and a summary of their career.",
+        "table_path": "data/actors_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "ActorID",
+        "example_values": [
+            "Other",
+            "Male",
+            "Female"
+        ],
+        "data_distribution": [
+            [
+                "unique_count",
+                3
+            ],
+            [
+                "top_5_values",
+                [
+                    [
+                        "Female",
+                        241
+                    ],
+                    [
+                        "Male",
+                        213
+                    ],
+                    [
+                        "Other",
+                        46
+                    ]
+                ]
+            ]
+        ]
+    },
+    "8340926343e82b04b929f2ebb823d68e": {
+        "column_name": "Actor_BirthDate",
+        "column_desc": "The date of birth of the actor, stored as a string in DD-MM-YYYY format.",
+        "column_type": "date (stored as string)",
+        "is_column_nullable": "false",
+        "table_name": "actors_EN",
+        "table_desc": "Stores demographic and biographical information about actors, including their names, birth dates, nationality, and a summary of their career.",
+        "table_path": "data/actors_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "ActorID",
+        "example_values": [
+            "11-11-1951",
+            "08-02-1989",
+            "14-06-1994",
+            "06-04-1986",
+            "19-08-1954"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                500
+            ],
+            [
+                "min",
+                "1950-01-07 00:00:00"
+            ],
+            [
+                "25%",
+                "1962-10-10 00:00:00"
+            ],
+            [
+                "50%",
+                "1977-02-14 00:00:00"
+            ],
+            [
+                "75%",
+                "1989-02-09 18:00:00"
+            ],
+            [
+                "max",
+                "2000-11-29 00:00:00"
+            ]
+        ]
+    },
+    "1b7b09a0dfff27204a7993116421a853": {
+        "column_name": "Nationality",
+        "column_desc": "The nationality of the actor.",
+        "column_type": "string",
+        "is_column_nullable": "false",
+        "table_name": "actors_EN",
+        "table_desc": "Stores demographic and biographical information about actors, including their names, birth dates, nationality, and a summary of their career.",
+        "table_path": "data/actors_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "ActorID",
+        "example_values": [
+            "France",
+            "Germany",
+            "USA",
+            "South Korea",
+            "United Kingdom"
+        ],
+        "data_distribution": [
+            [
+                "unique_count",
+                12
+            ],
+            [
+                "top_5_values",
+                [
+                    [
+                        "South Korea",
+                        50
+                    ],
+                    [
+                        "Italy",
+                        50
+                    ],
+                    [
+                        "Germany",
+                        48
+                    ],
+                    [
+                        "United Kingdom",
+                        48
+                    ],
+                    [
+                        "France",
+                        47
+                    ]
+                ]
+            ]
+        ]
+    },
+    "eed45897cf5856d2362d418ff2b34f31": {
+        "column_name": "AwardsCount",
+        "column_desc": "The total number of awards the actor has won.",
+        "column_type": "int",
+        "is_column_nullable": "false",
+        "table_name": "actors_EN",
+        "table_desc": "Stores demographic and biographical information about actors, including their names, birth dates, nationality, and a summary of their career.",
+        "table_path": "data/actors_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "ActorID",
+        "example_values": [
+            "0",
+            "7",
+            "8",
+            "10",
+            "5"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                500.0
+            ],
+            [
+                "min",
+                0.0
+            ],
+            [
+                "25%",
+                2.0
+            ],
+            [
+                "50%",
+                5.0
+            ],
+            [
+                "75%",
+                8.0
+            ],
+            [
+                "max",
+                10.0
+            ],
+            [
+                "mean",
+                5.24
+            ],
+            [
+                "std",
+                3.1853874782785137
+            ]
+        ]
+    },
+    "0037d45c433df22aa782f1c63e4d2f3a": {
+        "column_name": "Biography",
+        "column_desc": "A short biography or career summary for the actor.",
+        "column_type": "string",
+        "is_column_nullable": "false",
+        "table_name": "actors_EN",
+        "table_desc": "Stores demographic and biographical information about actors, including their names, birth dates, nationality, and a summary of their career.",
+        "table_path": "data/actors_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "ActorID",
+        "example_values": [
+            "Captivates the audience with natural acting and stage presence. An experienced artist who films in challenging locations. Praised for emotionally intense performances. Directs each film with great precision.",
+            "Known for deep character analysis. Respected in the industry and inspired many young talents. Also successful in voice acting and dubbing. Started their career at a young age and achieved many successful projects. Made a name at international festivals with prestigious awards.",
+            "Directs each film with great precision. Has a wide filmography including works in different genres. Respected in the industry and inspired many young talents.",
+            "Known for deep character analysis. Received various awards and was praised by critics. Recognized for a creative directing style and attention to detail. An experienced artist who films in challenging locations. A pioneer in the use of innovative techniques in the film industry. Work has inspired many young filmmakers.",
+            "Delivered strong performances in many different roles throughout life. Directs each film with great precision. Successfully transitioned between cinema and theater. Captivates the audience with natural acting and stage presence."
+        ],
+        "data_distribution": [
+            [
+                "unique_count",
+                499
+            ],
+            [
+                "top_5_values",
+                [
+                    [
+                        "Known for deep character analysis. Known for innovative and bold contributions in the art world. Regarded as a significant figure in the world of art and culture.",
+                        2
+                    ],
+                    [
+                        "Captivates the audience with natural acting and stage presence. An experienced artist who films in challenging locations. Praised for emotionally intense performances. Directs each film with great precision.",
+                        1
+                    ],
+                    [
+                        "Started their career at a young age and achieved many successful projects. Recognized for a creative directing style and attention to detail. Participated in socially conscious projects. Known for deep character analysis. Praised for emotionally intense performances. Has a wide filmography including works in different genres.",
+                        1
+                    ],
+                    [
+                        "Captivates the audience with natural acting and stage presence. Directs each film with great precision. A pioneer in the use of innovative techniques in the film industry. Pays special attention to film music and collaborates often. Delivered strong performances in many different roles throughout life.",
+                        1
+                    ],
+                    [
+                        "Respected in the industry and inspired many young talents. Known for deep character analysis. Made a name at international festivals with prestigious awards. Participated in major projects in the film industry for many years. Proved mastery in both drama and comedy genres.",
+                        1
+                    ]
+                ]
+            ]
+        ]
+    },
+    "fb954812a307e66a1f4afbaabca2fb1a": {
+        "column_name": "ActorID",
+        "column_desc": "A unique identifier for each actor.",
+        "column_type": "int",
+        "is_column_nullable": "false",
+        "table_name": "actors_EN",
+        "table_desc": "Stores demographic and biographical information about actors, including their names, birth dates, nationality, and a summary of their career.",
+        "table_path": "data/actors_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "ActorID",
+        "example_values": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                500.0
+            ],
+            [
+                "min",
+                1.0
+            ],
+            [
+                "25%",
+                125.75
+            ],
+            [
+                "50%",
+                250.5
+            ],
+            [
+                "75%",
+                375.25
+            ],
+            [
+                "max",
+                500.0
+            ],
+            [
+                "mean",
+                250.5
+            ],
+            [
+                "std",
+                144.4818327679989
+            ]
+        ]
+    },
+    "928f479a2e843433f352334872d10e46": {
+        "column_name": "FirstName",
+        "column_desc": "The first name of the actor.",
+        "column_type": "string",
+        "is_column_nullable": "false",
+        "table_name": "actors_EN",
+        "table_desc": "Stores demographic and biographical information about actors, including their names, birth dates, nationality, and a summary of their career.",
+        "table_path": "data/actors_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "ActorID",
+        "example_values": [
+            "Paul",
+            "Tim",
+            "David",
+            "Finn",
+            "Min-Seo"
+        ],
+        "data_distribution": [
+            [
+                "unique_count",
+                182
+            ],
+            [
+                "top_5_values",
+                [
+                    [
+                        "Jessica",
+                        9
+                    ],
+                    [
+                        "Paul",
+                        8
+                    ],
+                    [
+                        "Ana",
+                        8
+                    ],
+                    [
+                        "Isabel",
+                        6
+                    ],
+                    [
+                        "L\u00e9na",
+                        6
+                    ]
+                ]
+            ]
+        ]
+    },
+    "4fadd25aa136549e386fb421e57eeac2": {
+        "column_name": "LastName",
+        "column_desc": "The last name of the actor.",
+        "column_type": "string",
+        "is_column_nullable": "false",
+        "table_name": "actors_EN",
+        "table_desc": "Stores demographic and biographical information about actors, including their names, birth dates, nationality, and a summary of their career.",
+        "table_path": "data/actors_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "ActorID",
+        "example_values": [
+            "Simon",
+            "Schmidt",
+            "Davis",
+            "M\u00fcller",
+            "Jung"
+        ],
+        "data_distribution": [
+            [
+                "unique_count",
+                110
+            ],
+            [
+                "top_5_values",
+                [
+                    [
+                        "Garcia",
+                        14
+                    ],
+                    [
+                        "Jones",
+                        13
+                    ],
+                    [
+                        "Thomas",
+                        11
+                    ],
+                    [
+                        "Rodriguez",
+                        11
+                    ],
+                    [
+                        "Park",
+                        11
+                    ]
+                ]
+            ]
+        ]
+    },
+    "613d41ce1f398d8999f2cf8e3cc10dba": {
+        "column_name": "MovieID",
+        "column_desc": "Identifier for the movie. Acts as a foreign key to a movies table.",
+        "column_type": "int",
+        "is_column_nullable": "false",
+        "table_name": "movie_actors_EN",
+        "table_desc": "A mapping table linking movies to actors, detailing the role played and if it was a main character.",
+        "table_path": "data/movie_actors_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "MovieID, ActorID",
+        "example_values": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                1500.0
+            ],
+            [
+                "min",
+                1.0
+            ],
+            [
+                "25%",
+                75.75
+            ],
+            [
+                "50%",
+                150.5
+            ],
+            [
+                "75%",
+                225.25
+            ],
+            [
+                "max",
+                300.0
+            ],
+            [
+                "mean",
+                150.5
+            ],
+            [
+                "std",
+                86.63094104666696
+            ]
+        ]
+    },
+    "2f8f9fa8241348265f87ffba947c5d8b": {
+        "column_name": "ActorID",
+        "column_desc": "Identifier for the actor. Acts as a foreign key to the 'actors_EN' table.",
+        "column_type": "int",
+        "is_column_nullable": "false",
+        "table_name": "movie_actors_EN",
+        "table_desc": "A mapping table linking movies to actors, detailing the role played and if it was a main character.",
+        "table_path": "data/movie_actors_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "MovieID, ActorID",
+        "example_values": [
+            "197",
+            "11",
+            "57",
+            "424",
+            "7"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                1500.0
+            ],
+            [
+                "min",
+                1.0
+            ],
+            [
+                "25%",
+                128.0
+            ],
+            [
+                "50%",
+                245.0
+            ],
+            [
+                "75%",
+                370.0
+            ],
+            [
+                "max",
+                500.0
+            ],
+            [
+                "mean",
+                247.72666666666666
+            ],
+            [
+                "std",
+                144.02529689717625
+            ]
+        ]
+    },
+    "c7eedf25db37851ae732eb1843deec77": {
+        "column_name": "Role",
+        "column_desc": "A short string describing the character or role the actor played in the movie.",
+        "column_type": "string",
+        "is_column_nullable": "false",
+        "table_name": "movie_actors_EN",
+        "table_desc": "A mapping table linking movies to actors, detailing the role played and if it was a main character.",
+        "table_path": "data/movie_actors_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "MovieID, ActorID",
+        "example_values": [
+            "Hero's friend",
+            "Scientist",
+            "Military commander",
+            "Manager",
+            "Comic relief"
+        ],
+        "data_distribution": [
+            [
+                "unique_count",
+                46
+            ],
+            [
+                "top_5_values",
+                [
+                    [
+                        "Space explorer",
+                        62
+                    ],
+                    [
+                        "Journalist",
+                        57
+                    ],
+                    [
+                        "Writer",
+                        48
+                    ],
+                    [
+                        "Businessperson",
+                        45
+                    ],
+                    [
+                        "Child",
+                        45
+                    ]
+                ]
+            ]
+        ]
+    },
+    "94aa8c41e228f51952f239abb5019250": {
+        "column_name": "IsMainCharacter",
+        "column_desc": "A binary flag (1 = Yes, 0 = No) indicating if the role was a main character.",
+        "column_type": "int (binary flag)",
+        "is_column_nullable": "false",
+        "table_name": "movie_actors_EN",
+        "table_desc": "A mapping table linking movies to actors, detailing the role played and if it was a main character.",
+        "table_path": "data/movie_actors_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "MovieID, ActorID",
+        "example_values": [
+            "1",
+            "0"
+        ],
+        "data_distribution": [
+            [
+                "unique_count",
+                2
+            ],
+            [
+                "value_counts",
+                [
+                    [
+                        "0",
+                        1050
+                    ],
+                    [
+                        "1",
+                        450
+                    ]
+                ]
+            ]
+        ]
+    },
+    "8cab69ed2d9d46fbd07e3af33897bb24": {
+        "column_name": "MovieID",
+        "column_desc": "A unique identifier for each movie.",
+        "column_type": "int",
+        "is_column_nullable": "false",
+        "table_name": "movies_EN",
+        "table_desc": "Stores information about movies, including their title, release year, duration, language, country, budget, box office, and a short description.",
+        "table_path": "data/movies_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "MovieID",
+        "example_values": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                300.0
+            ],
+            [
+                "min",
+                1.0
+            ],
+            [
+                "25%",
+                75.75
+            ],
+            [
+                "50%",
+                150.5
+            ],
+            [
+                "75%",
+                225.25
+            ],
+            [
+                "max",
+                300.0
+            ],
+            [
+                "mean",
+                150.5
+            ],
+            [
+                "std",
+                86.74675786448736
+            ]
+        ]
+    },
+    "6fd577be8a6040f321ea7a250207420d": {
+        "column_name": "Title",
+        "column_desc": "The title of the movie.",
+        "column_type": "string",
+        "is_column_nullable": "false",
+        "table_name": "movies_EN",
+        "table_desc": "Stores information about movies, including their title, release year, duration, language, country, budget, box office, and a short description.",
+        "table_path": "data/movies_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "MovieID",
+        "example_values": [
+            "Taiy\u014d Ken Shizukesa Tabibito",
+            "Sang Voix Ombre",
+            "Feng Ri",
+            "Dream Fall Hopeless",
+            "Tian Shan"
+        ],
+        "data_distribution": [
+            [
+                "unique_count",
+                298
+            ],
+            [
+                "top_5_values",
+                [
+                    [
+                        "Rang Khwaab",
+                        2
+                    ],
+                    [
+                        "Luce Tempesta",
+                        2
+                    ],
+                    [
+                        "Taiy\u014d Ken Shizukesa Tabibito",
+                        1
+                    ],
+                    [
+                        "Sapna Pyar Jeevan",
+                        1
+                    ],
+                    [
+                        "Road Love",
+                        1
+                    ]
+                ]
+            ]
+        ]
+    },
+    "94e36213c19f64c5e305856578aa8627": {
+        "column_name": "ReleaseYear",
+        "column_desc": "The year the movie was released.",
+        "column_type": "int",
+        "is_column_nullable": "false",
+        "table_name": "movies_EN",
+        "table_desc": "Stores information about movies, including their title, release year, duration, language, country, budget, box office, and a short description.",
+        "table_path": "data/movies_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "MovieID",
+        "example_values": [
+            "2009",
+            "1997",
+            "1994",
+            "2016",
+            "2022"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                300.0
+            ],
+            [
+                "min",
+                1970.0
+            ],
+            [
+                "25%",
+                1983.0
+            ],
+            [
+                "50%",
+                1997.0
+            ],
+            [
+                "75%",
+                2011.0
+            ],
+            [
+                "max",
+                2023.0
+            ],
+            [
+                "mean",
+                1996.98
+            ],
+            [
+                "std",
+                16.096061962552863
+            ]
+        ]
+    },
+    "541e7eab58c033c7487dfcb2b0889c0f": {
+        "column_name": "DurationMinutes",
+        "column_desc": "The duration of the movie in minutes.",
+        "column_type": "int",
+        "is_column_nullable": "false",
+        "table_name": "movies_EN",
+        "table_desc": "Stores information about movies, including their title, release year, duration, language, country, budget, box office, and a short description.",
+        "table_path": "data/movies_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "MovieID",
+        "example_values": [
+            "96",
+            "160",
+            "99",
+            "97",
+            "125"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                300.0
+            ],
+            [
+                "min",
+                80.0
+            ],
+            [
+                "25%",
+                106.0
+            ],
+            [
+                "50%",
+                132.0
+            ],
+            [
+                "75%",
+                155.0
+            ],
+            [
+                "max",
+                180.0
+            ],
+            [
+                "mean",
+                130.39
+            ],
+            [
+                "std",
+                28.646348416368415
+            ]
+        ]
+    },
+    "b51bacaab1f3f09d8518d2bef78709da": {
+        "column_name": "Language",
+        "column_desc": "The primary language of the movie.",
+        "column_type": "string",
+        "is_column_nullable": "false",
+        "table_name": "movies_EN",
+        "table_desc": "Stores information about movies, including their title, release year, duration, language, country, budget, box office, and a short description.",
+        "table_path": "data/movies_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "MovieID",
+        "example_values": [
+            "Japanese",
+            "French",
+            "Chinese",
+            "Turkish",
+            "Hindi"
+        ],
+        "data_distribution": [
+            [
+                "unique_count",
+                10
+            ],
+            [
+                "top_5_values",
+                [
+                    [
+                        "English",
+                        53
+                    ],
+                    [
+                        "Spanish",
+                        44
+                    ],
+                    [
+                        "Japanese",
+                        36
+                    ],
+                    [
+                        "Hindi",
+                        29
+                    ],
+                    [
+                        "French",
+                        28
+                    ]
+                ]
+            ]
+        ]
+    },
+    "992f41f0f6ad7d1533606b69b8e43acb": {
+        "column_name": "Country",
+        "column_desc": "The country where the movie was produced.",
+        "column_type": "string",
+        "is_column_nullable": "false",
+        "table_name": "movies_EN",
+        "table_desc": "Stores information about movies, including their title, release year, duration, language, country, budget, box office, and a short description.",
+        "table_path": "data/movies_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "MovieID",
+        "example_values": [
+            "Japan",
+            "France",
+            "China",
+            "Turkey",
+            "India"
+        ],
+        "data_distribution": [
+            [
+                "unique_count",
+                12
+            ],
+            [
+                "top_5_values",
+                [
+                    [
+                        "Japan",
+                        36
+                    ],
+                    [
+                        "India",
+                        29
+                    ],
+                    [
+                        "France",
+                        28
+                    ],
+                    [
+                        "USA",
+                        27
+                    ],
+                    [
+                        "United Kingdom",
+                        26
+                    ]
+                ]
+            ]
+        ]
+    },
+    "43fe896aad76338dbdfff78ce70b908b": {
+        "column_name": "Budget",
+        "column_desc": "The production budget of the movie (in unspecified currency).",
+        "column_type": "float",
+        "is_column_nullable": "false",
+        "table_name": "movies_EN",
+        "table_desc": "Stores information about movies, including their title, release year, duration, language, country, budget, box office, and a short description.",
+        "table_path": "data/movies_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "MovieID",
+        "example_values": [
+            "255825301.3",
+            "95779129.23",
+            "86897026.08",
+            "25856701.56",
+            "68109405.06"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                300.0
+            ],
+            [
+                "min",
+                2264385.7
+            ],
+            [
+                "25%",
+                73364520.82
+            ],
+            [
+                "50%",
+                154549426.05
+            ],
+            [
+                "75%",
+                224121853.475
+            ],
+            [
+                "max",
+                298078879.6
+            ],
+            [
+                "mean",
+                151028070.5713
+            ],
+            [
+                "std",
+                87120592.98413311
+            ]
+        ]
+    },
+    "f14f0c86d6c0757c726d0d9cf46c96d9": {
+        "column_name": "BoxOffice",
+        "column_desc": "The total box office revenue of the movie (in unspecified currency).",
+        "column_type": "float",
+        "is_column_nullable": "false",
+        "table_name": "movies_EN",
+        "table_desc": "Stores information about movies, including their title, release year, duration, language, country, budget, box office, and a short description.",
+        "table_path": "data/movies_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "MovieID",
+        "example_values": [
+            "199760550.3",
+            "212874216.6",
+            "384720125.7",
+            "87656624.21",
+            "164244015.7"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                300.0
+            ],
+            [
+                "min",
+                4363302.33
+            ],
+            [
+                "25%",
+                162457732.625
+            ],
+            [
+                "50%",
+                329496702.35
+            ],
+            [
+                "75%",
+                647835948.025
+            ],
+            [
+                "max",
+                1440317477.0
+            ],
+            [
+                "mean",
+                438696609.1360666
+            ],
+            [
+                "std",
+                337548760.62367696
+            ]
+        ]
+    },
+    "9d6083d459c2ab00f83579e899a58fa1": {
+        "column_name": "Description",
+        "column_desc": "A short description or summary of the movie.",
+        "column_type": "string",
+        "is_column_nullable": "false",
+        "table_name": "movies_EN",
+        "table_desc": "Stores information about movies, including their title, release year, duration, language, country, budget, box office, and a short description.",
+        "table_path": "data/movies_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "MovieID",
+        "example_values": [
+            "A production that will be remembered in cinema history. The film takes the audience on a deep adventure.",
+            "A striking film with strong social messages. Aesthetically and artistically successful film. Amazes viewers with its visual effects.",
+            "Notable for its color palette and cinematography. The film takes the audience on a deep adventure.",
+            "Stands out with excellent music and set design. Its fast pace and surprising ending astonish viewers. Memorable scenes leave a lasting impact.",
+            "Offers a unique interpretation of historical events. Its fast pace and surprising ending astonish viewers. Enriched with cultural elements and historical references."
+        ],
+        "data_distribution": [
+            [
+                "unique_count",
+                299
+            ],
+            [
+                "top_5_values",
+                [
+                    [
+                        "Stands out with its original script and captivating storyline. Its fast pace and surprising ending astonish viewers.",
+                        2
+                    ],
+                    [
+                        "A production that will be remembered in cinema history. The film takes the audience on a deep adventure.",
+                        1
+                    ],
+                    [
+                        "A striking film with strong social messages. Notable for its color palette and cinematography.",
+                        1
+                    ],
+                    [
+                        "Memorable scenes leave a lasting impact. Interpersonal relationships are impressively portrayed. Stands out with its original script and captivating storyline. A thrilling production filled with suspenseful moments.",
+                        1
+                    ],
+                    [
+                        "The film takes the audience on a deep adventure. Stands out with its original script and captivating storyline. Amazes viewers with its visual effects. Stands out with fast-paced action scenes. Interpersonal relationships are impressively portrayed.",
+                        1
+                    ]
+                ]
+            ]
+        ]
+    },
+    "daf4e3c82601715442e770f50671b26f": {
+        "column_name": "RatingID",
+        "column_desc": "A unique identifier for each rating entry.",
+        "column_type": "int",
+        "is_column_nullable": "false",
+        "table_name": "ratings_EN",
+        "table_desc": "Stores user-generated ratings and comments for movies, linking movies to users and their feedback.",
+        "table_path": "data/ratings_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "RatingID",
+        "example_values": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                2000.0
+            ],
+            [
+                "min",
+                1.0
+            ],
+            [
+                "25%",
+                500.75
+            ],
+            [
+                "50%",
+                1000.5
+            ],
+            [
+                "75%",
+                1500.25
+            ],
+            [
+                "max",
+                2000.0
+            ],
+            [
+                "mean",
+                1000.5
+            ],
+            [
+                "std",
+                577.4945887192364
+            ]
+        ]
+    },
+    "0deef632f013c3ae460395f8e8d15844": {
+        "column_name": "MovieID",
+        "column_desc": "Identifier for the movie being rated. Acts as a foreign key to the 'movies_EN' table.",
+        "column_type": "int",
+        "is_column_nullable": "false",
+        "table_name": "ratings_EN",
+        "table_desc": "Stores user-generated ratings and comments for movies, linking movies to users and their feedback.",
+        "table_path": "data/ratings_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "RatingID",
+        "example_values": [
+            "180",
+            "11",
+            "271",
+            "89",
+            "80"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                2000.0
+            ],
+            [
+                "min",
+                1.0
+            ],
+            [
+                "25%",
+                72.0
+            ],
+            [
+                "50%",
+                146.0
+            ],
+            [
+                "75%",
+                223.0
+            ],
+            [
+                "max",
+                300.0
+            ],
+            [
+                "mean",
+                149.0885
+            ],
+            [
+                "std",
+                87.15567522319935
+            ]
+        ]
+    },
+    "efef08c56d7d01c56a62d16f7a755c4e": {
+        "column_name": "UserID",
+        "column_desc": "Identifier for the user who submitted the rating.",
+        "column_type": "int",
+        "is_column_nullable": "false",
+        "table_name": "ratings_EN",
+        "table_desc": "Stores user-generated ratings and comments for movies, linking movies to users and their feedback.",
+        "table_path": "data/ratings_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "RatingID",
+        "example_values": [
+            "42",
+            "32",
+            "7",
+            "97",
+            "192"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                2000.0
+            ],
+            [
+                "min",
+                1.0
+            ],
+            [
+                "25%",
+                71.0
+            ],
+            [
+                "50%",
+                149.0
+            ],
+            [
+                "75%",
+                223.0
+            ],
+            [
+                "max",
+                300.0
+            ],
+            [
+                "mean",
+                148.274
+            ],
+            [
+                "std",
+                87.43060665173121
+            ]
+        ]
+    },
+    "0cbfe140406c486702999e8f36c01278": {
+        "column_name": "RatingValue",
+        "column_desc": "The numerical rating given by the user (e.g., on a scale of 1.0-10.0).",
+        "column_type": "float",
+        "is_column_nullable": "false",
+        "table_name": "ratings_EN",
+        "table_desc": "Stores user-generated ratings and comments for movies, linking movies to users and their feedback.",
+        "table_path": "data/ratings_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "RatingID",
+        "example_values": [
+            "5.1",
+            "7.1",
+            "3.9",
+            "2.6",
+            "1.3"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                2000.0
+            ],
+            [
+                "min",
+                1.0
+            ],
+            [
+                "25%",
+                3.275
+            ],
+            [
+                "50%",
+                5.4
+            ],
+            [
+                "75%",
+                7.8
+            ],
+            [
+                "max",
+                10.0
+            ],
+            [
+                "mean",
+                5.488149999999999
+            ],
+            [
+                "std",
+                2.6118816091603647
+            ]
+        ]
+    },
+    "8595c4e2f024eee3c9784e0f93a163fd": {
+        "column_name": "Comment",
+        "column_desc": "A text comment submitted by the user along with the rating.",
+        "column_type": "string",
+        "is_column_nullable": "false",
+        "table_name": "ratings_EN",
+        "table_desc": "Stores user-generated ratings and comments for movies, linking movies to users and their feedback.",
+        "table_path": "data/ratings_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "RatingID",
+        "example_values": [
+            "Its fast pace and surprising ending astonish viewers. Enriched with cultural elements and historical references.",
+            "Stands out with its original script and captivating storyline. The film takes the audience on a deep adventure.",
+            "The film takes the audience on a deep adventure. Elegantly addresses the relationship between nature and humanity. Its mysterious atmosphere captivates the audience. Stands out with fast-paced action scenes.",
+            "Its mysterious atmosphere captivates the audience. A thrilling production filled with suspenseful moments. Centers on childhood memories and family bonds.",
+            "Offers a unique interpretation of historical events. Successfully reflects local cultural motifs. Stands out with its original script and captivating storyline. Its fast pace and surprising ending astonish viewers. Aesthetically and artistically successful film."
+        ],
+        "data_distribution": [
+            [
+                "unique_count",
+                1835
+            ],
+            [
+                "top_5_values",
+                [
+                    [
+                        "A striking film with strong social messages. Amazes viewers with its visual effects.",
+                        5
+                    ],
+                    [
+                        "Elegantly addresses the relationship between nature and humanity. A must-watch for its gripping script and powerful performances.",
+                        4
+                    ],
+                    [
+                        "A production that will be remembered in cinema history. Elegantly addresses the relationship between nature and humanity.",
+                        4
+                    ],
+                    [
+                        "The plot tells a story where love and drama intertwine. The film takes the audience on a deep adventure.",
+                        4
+                    ],
+                    [
+                        "Memorable scenes leave a lasting impact. A striking film with strong social messages.",
+                        4
+                    ]
+                ]
+            ]
+        ]
+    },
+    "f98bdc5e27a9ad4cd73e9d766628135b": {
+        "column_name": "RatingDate",
+        "column_desc": "The date the rating was submitted, stored as a string in YYYY-MM-DD format.",
+        "column_type": "date (stored as string)",
+        "is_column_nullable": "false",
+        "table_name": "ratings_EN",
+        "table_desc": "Stores user-generated ratings and comments for movies, linking movies to users and their feedback.",
+        "table_path": "data/ratings_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "RatingID",
+        "example_values": [
+            "2007-06-24",
+            "1982-04-23",
+            "1996-03-17",
+            "2021-05-07",
+            "2018-10-01"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                2000
+            ],
+            [
+                "min",
+                "1970-08-09 00:00:00"
+            ],
+            [
+                "25%",
+                "2004-07-03 18:00:00"
+            ],
+            [
+                "50%",
+                "2015-05-08 12:00:00"
+            ],
+            [
+                "75%",
+                "2021-12-25 06:00:00"
+            ],
+            [
+                "max",
+                "2025-12-26 00:00:00"
+            ]
+        ]
+    },
+    "dd50d088d6b9587b723182993f6dce09": {
+        "column_name": "UserID",
+        "column_desc": "A unique identifier for each user.",
+        "column_type": "int",
+        "is_column_nullable": "false",
+        "table_name": "users_EN",
+        "table_desc": "Stores information about users who provide ratings, including their username, email, demographics (gender, birth date, country), and registration date.",
+        "table_path": "data/users_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "UserID",
+        "example_values": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                300.0
+            ],
+            [
+                "min",
+                1.0
+            ],
+            [
+                "25%",
+                75.75
+            ],
+            [
+                "50%",
+                150.5
+            ],
+            [
+                "75%",
+                225.25
+            ],
+            [
+                "max",
+                300.0
+            ],
+            [
+                "mean",
+                150.5
+            ],
+            [
+                "std",
+                86.74675786448736
+            ]
+        ]
+    },
+    "aca2177007b5caf325ed69b4036e3796": {
+        "column_name": "UserName",
+        "column_desc": "The user's chosen username.",
+        "column_type": "string",
+        "is_column_nullable": "false",
+        "table_name": "users_EN",
+        "table_desc": "Stores information about users who provide ratings, including their username, email, demographics (gender, birth date, country), and registration date.",
+        "table_path": "data/users_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "UserID",
+        "example_values": [
+            "yildirimsatrettin",
+            "tarhanhasgul",
+            "corlumestur",
+            "unalsensoy",
+            "abid26"
+        ],
+        "data_distribution": [
+            [
+                "unique_count",
+                298
+            ],
+            [
+                "top_5_values",
+                [
+                    [
+                        "bilgendumanli",
+                        2
+                    ],
+                    [
+                        "skaradeniz",
+                        2
+                    ],
+                    [
+                        "gulagainonu",
+                        1
+                    ],
+                    [
+                        "corlugulsevil",
+                        1
+                    ],
+                    [
+                        "kubranulker",
+                        1
+                    ]
+                ]
+            ]
+        ]
+    },
+    "0b05e551048ff552fcfb79a724bdfcbf": {
+        "column_name": "Email",
+        "column_desc": "The user's email address.",
+        "column_type": "string",
+        "is_column_nullable": "false",
+        "table_name": "users_EN",
+        "table_desc": "Stores information about users who provide ratings, including their username, email, demographics (gender, birth date, country), and registration date.",
+        "table_path": "data/users_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "UserID",
+        "example_values": [
+            "muhammetyaman@example.net",
+            "zenginsavki@example.org",
+            "fedentevetoglu@example.org",
+            "cbilgin@example.net",
+            "sayin23@example.com"
+        ],
+        "data_distribution": [
+            [
+                "unique_count",
+                299
+            ],
+            [
+                "top_5_values",
+                [
+                    [
+                        "tarhannas@example.com",
+                        2
+                    ],
+                    [
+                        "muhammetyaman@example.net",
+                        1
+                    ],
+                    [
+                        "gokcilulker@example.com",
+                        1
+                    ],
+                    [
+                        "laze91@example.org",
+                        1
+                    ],
+                    [
+                        "cagaseven@example.com",
+                        1
+                    ]
+                ]
+            ]
+        ]
+    },
+    "2b33b3597ef720676dca7128e3290eab": {
+        "column_name": "User_Gender",
+        "column_desc": "The gender of the user (e.g., Male, Female, Other).",
+        "column_type": "string",
+        "is_column_nullable": "false",
+        "table_name": "users_EN",
+        "table_desc": "Stores information about users who provide ratings, including their username, email, demographics (gender, birth date, country), and registration date.",
+        "table_path": "data/users_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "UserID",
+        "example_values": [
+            "Female",
+            "Male",
+            "Other"
+        ],
+        "data_distribution": [
+            [
+                "unique_count",
+                3
+            ],
+            [
+                "top_5_values",
+                [
+                    [
+                        "Female",
+                        151
+                    ],
+                    [
+                        "Male",
+                        136
+                    ],
+                    [
+                        "Other",
+                        13
+                    ]
+                ]
+            ]
+        ]
+    },
+    "21395c158ee5c1139228010d2ff119be": {
+        "column_name": "User_BirthDate",
+        "column_desc": "The user's date of birth, stored as a string in DD-MM-YYYY format.",
+        "column_type": "date (stored as string)",
+        "is_column_nullable": "false",
+        "table_name": "users_EN",
+        "table_desc": "Stores information about users who provide ratings, including their username, email, demographics (gender, birth date, country), and registration date.",
+        "table_path": "data/users_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "UserID",
+        "example_values": [
+            "04-11-1989",
+            "09-11-1992",
+            "07-07-1965",
+            "14-07-1967",
+            "07-05-2005"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                300
+            ],
+            [
+                "min",
+                "1960-01-24 00:00:00"
+            ],
+            [
+                "25%",
+                "1974-02-14 00:00:00"
+            ],
+            [
+                "50%",
+                "1984-05-05 12:00:00"
+            ],
+            [
+                "75%",
+                "1996-08-07 06:00:00"
+            ],
+            [
+                "max",
+                "2010-12-19 00:00:00"
+            ]
+        ]
+    },
+    "ad3f02e6ce1d84e21534d2d6913c1313": {
+        "column_name": "User_Country",
+        "column_desc": "The user's country of residence.",
+        "column_type": "string",
+        "is_column_nullable": "false",
+        "table_name": "users_EN",
+        "table_desc": "Stores information about users who provide ratings, including their username, email, demographics (gender, birth date, country), and registration date.",
+        "table_path": "data/users_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "UserID",
+        "example_values": [
+            "Germany",
+            "France",
+            "USA",
+            "United Kingdom",
+            "Turkey"
+        ],
+        "data_distribution": [
+            [
+                "unique_count",
+                6
+            ],
+            [
+                "top_5_values",
+                [
+                    [
+                        "United Kingdom",
+                        57
+                    ],
+                    [
+                        "Germany",
+                        56
+                    ],
+                    [
+                        "Turkey",
+                        53
+                    ],
+                    [
+                        "USA",
+                        47
+                    ],
+                    [
+                        "Japan",
+                        45
+                    ]
+                ]
+            ]
+        ]
+    },
+    "db0cf9639a09dc352b17c8ea8c062c16": {
+        "column_name": "RegistrationDate",
+        "column_desc": "The date the user registered, stored as a string in DD-MM-YYYY format.",
+        "column_type": "date (stored as string)",
+        "is_column_nullable": "false",
+        "table_name": "users_EN",
+        "table_desc": "Stores information about users who provide ratings, including their username, email, demographics (gender, birth date, country), and registration date.",
+        "table_path": "data/users_EN.csv",
+        "table_extenstion": "csv",
+        "granularity_key": "UserID",
+        "example_values": [
+            "22-05-2024",
+            "15-10-2020",
+            "24-09-2015",
+            "07-12-2016",
+            "04-08-2019"
+        ],
+        "data_distribution": [
+            [
+                "count",
+                300
+            ],
+            [
+                "min",
+                "2015-01-02 00:00:00"
+            ],
+            [
+                "25%",
+                "2017-10-19 00:00:00"
+            ],
+            [
+                "50%",
+                "2020-08-23 12:00:00"
+            ],
+            [
+                "75%",
+                "2023-05-19 06:00:00"
+            ],
+            [
+                "max",
+                "2025-12-26 00:00:00"
+            ]
+        ]
+    }
+}
