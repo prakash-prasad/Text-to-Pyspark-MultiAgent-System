@@ -17,6 +17,7 @@ class SubQueryState(TypedDict):
         code_evaluation_remarks: list of remarks generated during code evaluation by llm code evaluator chain
         code_evaluation_scores: list of scores (out of 10) generated during code evaluation by llm code evaluator chain
         human_code_evaluation: boolean indicating if human has approved the generated code
+        code_execution_results: dictionary containing results of code execution
         """
 
     simple_question: str
@@ -34,6 +35,8 @@ class SubQueryState(TypedDict):
 
     output_variable_names_raw: List[str]
     human_code_evaluation: bool
+
+    code_execution_results: Dict
 
 
 
